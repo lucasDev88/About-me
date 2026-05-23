@@ -111,10 +111,10 @@ Responsive website for a local restaurant with menu, location details, and reser
 
 ## Contact
 
-- GitHub: github.com/lucasDev88
-- Fiverr: br.fiverr.com/s/jj9l1Km
+- [GitHub](github.com/lucasDev88)
+- [Fiverr](https://br.fiverr.com/lucas_feliper?public_mode=true)
+- [Portifolio](https://about-me-eosin-two.vercel.app)
 - Email: lucasfelipe300810@gmail.com
-- Portifolio: https://about-me-eosin-two.vercel.app
 
 ---
 
